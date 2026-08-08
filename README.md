@@ -1,221 +1,249 @@
+Claro — abaixo está tudo em um único bloco de código, pronto para copiar diretamente para o README.md.
+
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                    SYSTEM INITIALIZATION                    ║
+╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d0d0d,100:1a1a1a&height=180&section=header&text=GZCRYY&fontSize=48&fontColor=cfcfcf&fontAlignY=55&desc=INFRASTRUCTURE%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20CYBERSECURITY&descAlignY=75&descSize=14&descColor=7a7a7a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:161b22,100:21262d&text=GUILHERME&fontColor=58A6FF&fontSize=48&fontAlignY=40&desc=LINUX%20%7C%20INFRASTRUCTURE%20%7C%20DEVOPS%20%7C%20CLOUD%20%7C%20SECURITY&descAlignY=62&descSize=13&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=8A8A8A&center=true&vCenter=true&width=650&lines=system+online.;initializing+environment...;loading%3A+linux%2C+infra%2C+security.;ready." alt="Typing Animation"/>
+<br>
 
-<br/>
+```text
+> INITIALIZING SYSTEM...
+> LOADING USER PROFILE............. [OK]
+> LOADING LINUX ENVIRONMENT........ [OK]
+> LOADING INFRASTRUCTURE MODULES... [OK]
+> LOADING CLOUD MODULES............ [OK]
+> LOADING SECURITY MODULES......... [OK]
+> SYSTEM STATUS.................... ONLINE
 
-<img src="https://komarev.com/ghpvc/?username=Gzcryy&style=flat-square&color=2b2b2b&label=views&labelColor=1a1a1a"/>
-<a href="https://github.com/Gzcryy?tab=followers"><img src="https://img.shields.io/github/followers/Gzcryy?style=flat-square&label=followers&color=2b2b2b&labelColor=1a1a1a"/></a>
+Guilherme
 
-</div>
+Infrastructure & DevOps Student
 
-<br/>
+Building systems. Automating infrastructure. Learning security.
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rock.gif" width="0" height="0"/>
+<br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Linux+%E2%80%A2+Infrastructure+%E2%80%A2+DevOps;Cloud+%E2%80%A2+Automation+%E2%80%A2+Security;From+Infrastructure+to+Cloud+Security" alt="Typing Animation"/></div>
+---
+
+01 — SYSTEM / ABOUT_ME
+
+$ whoami
+guilherme
+
+$ cat /etc/profile
+
+Estudante de tecnologia com foco na construção de uma carreira em Infraestrutura, DevOps, Cloud e Cybersecurity.
+
+Atualmente, meu foco está em fortalecer fundamentos de Linux, redes, automação, infraestrutura e cloud, construindo projetos práticos e evoluindo progressivamente em direção a ambientes mais seguros e automatizados.
+
+FOCUS
+├── Linux
+├── Infrastructure
+├── DevOps
+├── Cloud
+├── Automation
+└── Security
+
 
 ---
 
-### whoami
+02 — TECH STACK
 
-<div align="center">
+Operating Systems
 
-| | |
-|:--|:--|
-| **Nome** | Guilherme |
-| **Função** | Estudante de Infraestrutura / DevOps / Cybersecurity |
-| **Ambiente** | Linux |
-| **Foco atual** | Construindo infraestrutura e projetos de segurança |
-| **Filosofia** | Automatizar. Proteger. Observar. Melhorar. |
+<p>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+</p>Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639"/>
+<img src="https://img.shields.io/badge/SSH-0D1117?style=for-the-badge&logo=openssh&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/DNS-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+<img src="https://img.shields.io/badge/UFW-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/HTTPS%20%2F%20TLS-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=FFFFFF"/>
+</p>DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+</p>Cloud
+
+<p>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+</p>Automation
+
+<p>
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+</p>Security
+
+<p>
+<img src="https://img.shields.io/badge/DAST-0D1117?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Security%20Fundamentals-0D1117?style=for-the-badge&logo=shield&logoColor=58A6FF"/>
+</p>Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+</p>
+---
+
+03 — TOOLS / ENVIRONMENT
+
+<div align="center">Environment	Tools
+
+OS	Linux
+Shell	Bash
+Version Control	Git / GitHub
+Web Server	Nginx
+Containers	Docker
+CI/CD	GitHub Actions
+Cloud	AWS
+Editor	VS Code
+Workflow	Full Terminal
+
 
 </div>
+---
 
-<br/>
+04 — PROJECTS
 
-### sobre
+Production-Ready Server
 
-Sou estudante de tecnologia com foco em Infraestrutura, DevOps e Cybersecurity.
+> A practical infrastructure project focused on building and securing a production-oriented Linux server environment.
 
-Atualmente construo minha base principalmente em Linux, redes, servidores, cloud, automação e segurança — entendendo como os sistemas funcionam por baixo do capô: DNS, reverse proxies, HTTPS, pipelines, hardening e ferramentas de terminal.
 
-Busco construir infraestrutura que seja:
 
+┌──────────────────────────────────────────────────────────┐
+│  PRODUCTION-READY SERVER                                 │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  PLATFORM                                                │
+│  └── Linux                                                │
+│                                                          │
+│  INFRASTRUCTURE                                           │
+│  ├── Nginx — Reverse Proxy                                │
+│  ├── DNS / Domain                                         │
+│  ├── HTTPS / TLS — Certbot                                │
+│  ├── SSH                                                   │
+│  └── UFW — Firewall                                        │
+│                                                          │
+│  SECURITY                                                 │
+│  ├── Environment Variables / Secrets                      │
+│  └── DAST                                                  │
+│                                                          │
+│  AUTOMATION                                               │
+│  ├── Bash                                                  │
+│  └── GitHub Actions — CI/CD                                │
+│                                                          │
+│  WORKFLOW                                                 │
+│  └── Full terminal-based workflow                          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+Objective: colocar em prática conceitos de Linux, infraestrutura, segurança, web server, HTTPS, automação e CI/CD em um ambiente realista.
+
+Status: IN PROGRESS
+
+
+---
+
+05 — CURRENT OBJECTIVES
+
+<div align="center">╭────────────────────────────────────────────────────────────╮
+│  $ cat /home/guilherme/current_goals                       │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  [✓] Linux fundamentals                                    │
+│  [✓] Git & GitHub                                           │
+│  [→] Networking                                             │
+│  [→] AWS fundamentals                                       │
+│  [→] Docker                                                 │
+│  [→] CI/CD                                                  │
+│  [ ] Terraform                                              │
+│  [ ] Advanced Cloud                                         │
+│  [ ] Cybersecurity                                          │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  ROADMAP                                                   │
+│                                                            │
+│  Infrastructure → DevOps → Cloud → Security                │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+
+</div><details>
+<summary><b>Future studies</b></summary><br>A evolução do aprendizado segue uma abordagem progressiva:
+
+Linux
+  │
+  ├── Networking
+  │
+  └── Infrastructure
+          │
+          ▼
+       DevOps
+          │
+          ├── Containers
+          ├── CI/CD
+          └── Infrastructure as Code
+                  │
+                  ▼
+                Cloud
+                  │
+                  ▼
+               Security
+
+Projetos e tecnologias futuras serão adicionados ao perfil conforme forem efetivamente estudados e desenvolvidos.
+
+</details>
+---
+
+06 — GITHUB ANALYTICS
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=gzcryy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzcryy&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" /></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=gzcryy&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" /></div><br><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=gzcryy&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" /></div>
+---
+
+07 — ACHIEVEMENTS
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=gzcryy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" /></div>
+---
+
+08 — CONTRIBUTION SYSTEM
+
+<div align="center"><img src="https://raw.githubusercontent.com/gzcryy/gzcryy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%"/></div>
+---
+
+09 — CONNECT
+
+<div align="center"><a href="https://github.com/gzcryy">
+<img src="https://img.shields.io/badge/GitHub-gzcryy-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a><a href="https://www.linkedin.com/in/guilherme-matheus-563884305/">
+<img src="https://img.shields.io/badge/LinkedIn-guilherme--matheus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a></div>
+---
+
+<div align="center">──────────────────────────────────────────────────────────────
+
+SYSTEM STATUS: ONLINE
+
+BUILDING  •  LEARNING  •  AUTOMATING
+
+LINUX → INFRASTRUCTURE → DEVOPS → CLOUD → SECURITY
+
+──────────────────────────────────────────────────────────────
+
+<sub>Designed with a terminal-first mindset.</sub>
+
+</div>
 ```
-  automatizada
-  segura
-  observável
-  escalável
-  reprodutível
-```
-
-<div align="center">
-
-**trajetória**
-
-`Linux` → `Infraestrutura` → `DevOps` → `Cloud` → `Cybersecurity`
-
-</div>
-
----
-
-### stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,nginx,aws,docker,terraform,githubactions,python,git,github,prometheus,grafana&theme=dark&perline=6"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=9a9a9a)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnubash&logoColor=9a9a9a)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=9a9a9a)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=9a9a9a)
-![Nginx](https://img.shields.io/badge/Nginx-1a1a1a?style=flat-square&logo=nginx&logoColor=9a9a9a)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=9a9a9a)
-![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=9a9a9a)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=9a9a9a)
-![Terraform](https://img.shields.io/badge/Terraform-1a1a1a?style=flat-square&logo=terraform&logoColor=9a9a9a)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=9a9a9a)
-
-</div>
-
----
-
-### projeto
-
-<table>
-<tr>
-<td width="100%">
-
-**Production Server Setup**
-
-Servidor Linux de produção, configurado inteiramente via terminal — rede, proxy reverso, HTTPS, gestão de segredos, segurança e deploy automatizado.
-
-```
-  production server
-        │
-        ▼
-  dns / domain
-        │
-        ▼
-  nginx (reverse proxy)
-        │
-        ▼
-  https / tls (certbot)
-        │
-        ▼
-  application
-        │
-        ▼
-  environment vars / secrets
-        │
-        ▼
-  ci/cd (github actions)
-        │
-        ▼
-  dast (security test)
-```
-
-`Linux` `Bash` `DNS` `Nginx` `Certbot` `SSH` `UFW` `GitHub Actions` `DAST` `CLI`
-
-</td>
-</tr>
-</table>
-
----
-
-### objetivos atuais
-
-```
-$ cat objectives.txt
-
-[==========] linux
-[========..] networking
-[=======...] bash / terminal
-[======....] aws cloud
-[======....] docker
-[======....] ci/cd
-[=====.....] terraform / iac
-[=====.....] security fundamentals
-[====......] dast
-
-mission:
-  build real infrastructure
-  master linux administration
-  automate deployments
-  understand cloud infrastructure
-  apply security practices
-```
-
----
-
-### estatísticas
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gzcryy&show_icons=true&theme=default&hide_border=true&bg_color=0d0d0d&title_color=9a9a9a&icon_color=6a6a6a&text_color=7a7a7a"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzcryy&layout=compact&theme=default&hide_border=true&bg_color=0d0d0d&title_color=9a9a9a&text_color=7a7a7a"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Gzcryy&theme=default&hide_border=true&background=0D0D0D&stroke=2b2b2b&ring=6a6a6a&fire=8a8a8a&currStreakLabel=9a9a9a&sideLabels=7a7a7a&dates=555555&currStreakNum=cfcfcf&sideNums=cfcfcf"/>
-
-</div>
-
----
-
-### atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gzcryy&bg_color=0d0d0d&color=7a7a7a&line=8a8a8a&point=cfcfcf&area=true&hide_border=true&title_color=9a9a9a" width="100%"/>
-
-</div>
-
----
-
-### troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gzcryy&theme=gruvbox&no-frame=true&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
-### contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gzcryy/Gzcryy/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
-</div>
-
-> requer o workflow do [Platane/snk](https://github.com/Platane/snk) configurado no repositório `Gzcryy/Gzcryy` para renderizar.
-
----
-
-### contato
-
-<div align="center">
-
-<a href="https://github.com/Gzcryy"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=9a9a9a"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=9a9a9a"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>automatizar o que pode ser automatizado. proteger o que precisa ser protegido. observar o que não pode ser previsto.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
