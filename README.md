@@ -1,4 +1,3 @@
-Claro — abaixo está tudo em um único bloco de código, pronto para copiar diretamente para o README.md.
 
 <!--
 ╔══════════════════════════════════════════════════════════════╗
