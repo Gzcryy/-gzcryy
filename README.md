@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=170&section=header&text=GZCRYY&fontSize=48&fontColor=E8E6E1&fontAlignY=55&desc=INFRASTRUCTURE%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20SECURITY&descAlignY=78&descSize=13&descColor=8A8680" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=170&section=header&text=GUILHERME&fontSize=42&fontColor=E8E6E1&fontAlignY=45&desc=%40gzcryy%20%E2%80%A2%20INFRASTRUCTURE%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20SECURITY&descAlignY=68&descSize=13&descColor=8A8680" width="100%"/>
 
 </div>
 
-<pre align="center">
+```text
 ┌──────────────────────────────────────────────┐
 │ SYSTEM INITIALIZATION                         │
 ├──────────────────────────────────────────────┤
@@ -17,11 +17,11 @@
 │                                                │
 │ SYSTEM STATUS: ONLINE                         │
 └──────────────────────────────────────────────┘
-</pre>
+```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=C9C5BC&center=true&vCenter=true&width=600&lines=guilherme+%E2%80%94+building+infrastructure;linux+%2B+devops+%2B+cloud+%2B+security;automating.+securing.+observing." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=C9C5BC&center=true&vCenter=true&width=600&lines=Guilherme+%E2%80%94+building+infrastructure;linux+%2B+devops+%2B+cloud+%2B+security;automating.+securing.+observing." alt="Typing Animation"/>
 
 <br/>
 
@@ -133,7 +133,7 @@ Logs · Metrics · Monitoring
 
 ### `> toolbox`
 
-<pre align="center">
+```text
 ┌──────────────────────────────────────────────┐
 │ TOOLBOX                                       │
 ├──────────────────────────────────────────────┤
@@ -147,7 +147,7 @@ Logs · Metrics · Monitoring
 │ SECURITY       Trivy / OWASP                  │
 │ OBSERVABILITY  Prometheus / Grafana / Loki     │
 └──────────────────────────────────────────────┘
-</pre>
+```
 
 <div align="center">
 
@@ -352,7 +352,7 @@ Interesses em desenvolvimento: Cloud Security · DevSecOps · AWS Security · Se
 
 ### `> system_status`
 
-<pre align="center">
+```text
 ┌──────────────────────────────────────┐
 │ SYSTEM STATUS                         │
 ├──────────────────────────────────────┤
@@ -363,7 +363,7 @@ Interesses em desenvolvimento: Cloud Security · DevSecOps · AWS Security · Se
 │ Security          EXPLORING           │
 │ Observability     BUILDING            │
 └──────────────────────────────────────┘
-</pre>
+```
 
 <br/>
 
