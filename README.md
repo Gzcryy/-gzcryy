@@ -1,382 +1,747 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=170&section=header&text=GUILHERME&fontSize=42&fontColor=E8E6E1&fontAlignY=45&desc=%40gzcryy%20%E2%80%A2%20INFRASTRUCTURE%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20SECURITY&descAlignY=68&descSize=13&descColor=8A8680" width="100%"/>
-
-</div>
-
-```text
-┌──────────────────────────────────────────────┐
-│ SYSTEM INITIALIZATION                         │
-├──────────────────────────────────────────────┤
-│ [OK] Loading Linux environment...             │
-│ [OK] Loading infrastructure modules...        │
-│ [OK] Loading DevOps environment...            │
-│ [OK] Loading cloud modules...                 │
-│ [OK] Loading security modules...              │
-│ [OK] Loading observability modules...         │
-│                                                │
-│ SYSTEM STATUS: ONLINE                         │
-└──────────────────────────────────────────────┘
-```
+````markdown
+<!-- =========================================================
+     GZCRYY — GitHub Profile README
+     Infrastructure • DevOps • Cloud • Security
+     ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=C9C5BC&center=true&vCenter=true&width=600&lines=Guilherme+%E2%80%94+building+infrastructure;linux+%2B+devops+%2B+cloud+%2B+security;automating.+securing.+observing." alt="Typing Animation"/>
+<!-- SYSTEM INITIALIZATION -->
 
-<br/>
+<svg width="100%" viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gzcryy system initialization">
+  <rect width="900" height="210" rx="14" fill="#0a0e14" stroke="#30363d"/>
+  
+  <rect x="0" y="0" width="900" height="38" rx="14" fill="#111820"/>
+  <circle cx="22" cy="19" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="19" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="19" r="5" fill="#27c93f"/>
+  
+  <text x="82" y="24" fill="#8b949e" font-family="monospace" font-size="13">
+    gzcryy@github:~$ system-init
+  </text>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Divider_ornament.svg/600px-Divider_ornament.svg.png" width="0"/>
-<sub>· ────────────── ✦ ────────────── ·</sub>
+  <text x="28" y="68" fill="#58a6ff" font-family="monospace" font-size="13">
+    [ OK ]
+  </text>
+  <text x="82" y="68" fill="#c9d1d9" font-family="monospace" font-size="13">
+    Loading Linux environment...
+  </text>
+
+  <text x="28" y="92" fill="#58a6ff" font-family="monospace" font-size="13">
+    [ OK ]
+  </text>
+  <text x="82" y="92" fill="#c9d1d9" font-family="monospace" font-size="13">
+    Loading networking modules...
+  </text>
+
+  <text x="28" y="116" fill="#58a6ff" font-family="monospace" font-size="13">
+    [ OK ]
+  </text>
+  <text x="82" y="116" fill="#c9d1d9" font-family="monospace" font-size="13">
+    Loading infrastructure stack...
+  </text>
+
+  <text x="28" y="140" fill="#58a6ff" font-family="monospace" font-size="13">
+    [ OK ]
+  </text>
+  <text x="82" y="140" fill="#c9d1d9" font-family="monospace" font-size="13">
+    Loading DevOps / Cloud modules...
+  </text>
+
+  <text x="28" y="164" fill="#58a6ff" font-family="monospace" font-size="13">
+    [ OK ]
+  </text>
+  <text x="82" y="164" fill="#c9d1d9" font-family="monospace" font-size="13">
+    Loading security / observability modules...
+  </text>
+
+  <text x="28" y="191" fill="#3fb950" font-family="monospace" font-size="14">
+    SYSTEM STATUS: ONLINE
+  </text>
+</svg>
+
+<br>
+
+# `Gzcryy`
+
+### `Infrastructure • DevOps • Cloud • Security`
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Infrastructure;Automating+Systems;Learning+Cloud;Exploring+Cloud+Security;Engineering+Reliable+Systems"
+  alt="Typing animation"
+/>
 
 </div>
-
-<br/>
-
-### `> about_me`
-
-Estudante de tecnologia construindo uma base sólida em **Linux, redes e infraestrutura**, com foco atual em **DevOps** e evolução planejada para **Cloud** e **Cloud Security**.
-
-O objetivo é entender o que sustenta os sistemas por baixo — automatizar processos, versionar infraestrutura e, com o tempo, aplicar esse conhecimento à segurança de ambientes cloud.
-
-<br/>
 
 ---
 
-### `> core_interests`
+## `> about_me`
+
+```text
+Gzcryy is a technology student building a strong foundation
+across Linux, Networking, Infrastructure, DevOps, Cloud and Security.
+
+The current direction is focused on understanding how systems work,
+how servers are administered, how networks communicate, how repetitive
+processes can be automated, and how infrastructure can be delivered,
+monitored and protected.
+
+The goal is not to skip the fundamentals.
+
+The goal is to build them properly.
+````
 
 <div align="center">
 
-```text
-                    ┌───────────────┐
-                    │    LINUX      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │  NETWORKING   │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │ INFRASTRUCTURE│
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    DEVOPS     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     CLOUD     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │CLOUD SECURITY │
-                    └───────────────┘
-```
-
-*Uma base forte em sistemas e infraestrutura levando naturalmente a DevOps, Cloud e Cloud Security.*
+`Linux` → `Infrastructure` → `DevOps` → `Cloud` → `Cloud Security`
 
 </div>
 
-<br/>
-
 ---
 
-### `> tech_stack`
+## `> core_interests`
+
+<div align="center">
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="145">
 
-**🐧 Linux & Systems**
+### `01`
 
-Linux · Bash · SSH · systemd
-Filesystem · Permissions · Processes · Services
+**LINUX**
 
-**🌐 Networking**
-
-TCP/IP · DNS · HTTP/HTTPS
-Ports · Routing · Firewalls
-
-**🚀 DevOps**
-
-Git · GitHub · GitHub Actions
-CI/CD · Docker · Docker Compose
-
-**💻 Programming & Automation**
-
-Python · Go · Bash
+`Systems`
 
 </td>
-<td valign="top" width="50%">
+<td align="center">→</td>
+<td align="center" width="145">
 
-**☁️ Cloud**
+### `02`
 
-AWS · IAM · EC2
-S3 · VPC · CloudWatch
+**NETWORKING**
 
-**🔐 Security**
+`Connectivity`
 
-Cloud Security · DevSecOps
-SAST · DAST · Trivy · OWASP
+</td>
+<td align="center">→</td>
+<td align="center" width="145">
 
-**📊 Observability**
+### `03`
 
-Prometheus · Grafana · Loki
-Logs · Metrics · Monitoring
+**INFRASTRUCTURE**
+
+`Servers`
+
+</td>
+<td align="center">→</td>
+<td align="center" width="145">
+
+### `04`
+
+**DEVOPS**
+
+`Automation`
+
+</td>
+<td align="center">→</td>
+<td align="center" width="145">
+
+### `05`
+
+**CLOUD**
+
+`AWS`
+
+</td>
+<td align="center">→</td>
+<td align="center" width="145">
+
+### `06`
+
+**CLOUD SECURITY**
+
+`Protection`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-### `> toolbox`
-
-```text
-┌──────────────────────────────────────────────┐
-│ TOOLBOX                                       │
-├──────────────────────────────────────────────┤
-│ OS             Linux                          │
-│ SHELL          Bash                           │
-│ VCS            Git / GitHub                   │
-│ CI/CD          GitHub Actions                 │
-│ CONTAINERS     Docker                         │
-│ CLOUD          AWS                            │
-│ AUTOMATION     Python / Bash                  │
-│ SECURITY       Trivy / OWASP                  │
-│ OBSERVABILITY  Prometheus / Grafana / Loki     │
-└──────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=E8E6E1)
-![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=E8E6E1)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=E8E6E1)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=E8E6E1)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=E8E6E1)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=E8E6E1)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=E8E6E1)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=E8E6E1)
-![Grafana](https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=E8E6E1)
-
 </div>
 
-<br/>
-
 ---
 
-### `> featured_projects`
+## `> linux_systems`
+
+Linux is the foundation of the current technical path.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-```text
-PROJECT
-AWS SECURITY AUDITOR
+### Operating Systems
 
-CATEGORY
-Cloud Security / DevSecOps
-
-STACK
-Python • AWS • Terraform • Docker
-
-STATUS
-Building
-```
-
-Ferramenta para identificar e auditar configurações potencialmente inseguras em ambientes AWS. Utiliza FastAPI, AWS Lambda e API Gateway, com pipeline via GitHub Actions rodando testes automatizados, Trivy, OWASP ZAP e SAST.
+* Linux
+* Bash
+* Shell
+* SSH
+* Filesystem
+* Permissions
+* Processes
+* Services
+* systemd
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-```text
-PROJECT
-SECURITY LOG ANALYZER
+### System Administration
 
-CATEGORY
-Security / Observability
-
-STACK
-Go • Loki • Prometheus • Grafana
-
-STATUS
-Building
-```
-
-Ferramenta para análise de logs e identificação de eventos potencialmente suspeitos, utilizando regras de detecção com regex sobre pipelines de observabilidade.
+* Package management
+* Environment variables
+* Server administration
+* Service management
+* Process management
+* Filesystem administration
+* Basic troubleshooting
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## `> networking`
+
+Networking is treated as a fundamental layer of Infrastructure and DevOps.
+
+<div align="center">
+
+| Area                | Focus                              |
+| ------------------- | ---------------------------------- |
+| **TCP/IP**          | Network fundamentals               |
+| **DNS**             | Name resolution                    |
+| **HTTP / HTTPS**    | Application communication          |
+| **Ports**           | Service connectivity               |
+| **Routing**         | Network paths                      |
+| **Firewalls**       | Traffic control                    |
+| **Troubleshooting** | Diagnosing connectivity            |
+| **Architecture**    | Understanding basic network design |
+
+</div>
 
 ---
 
-### `> current_mission`
+## `> tech_stack`
 
-```bash
+### `01 — Infrastructure`
+
+<p>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
+<img src="https://img.shields.io/badge/SSH-0D1117?style=for-the-badge&logo=openssh&logoColor=FFFFFF" alt="SSH"/>
+<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx"/>
+<img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Networking"/>
+</p>
+
+### `02 — DevOps`
+
+<p>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/Docker_Compose-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker Compose"/>
+</p>
+
+### `03 — Cloud`
+
+<p>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/IAM-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="IAM"/>
+<img src="https://img.shields.io/badge/EC2-0D1117?style=for-the-badge&logo=amazonec2&logoColor=FF9900" alt="EC2"/>
+<img src="https://img.shields.io/badge/S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=569A31" alt="S3"/>
+<img src="https://img.shields.io/badge/VPC-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="VPC"/>
+<img src="https://img.shields.io/badge/CloudWatch-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="CloudWatch"/>
+</p>
+
+### `04 — Infrastructure as Code`
+
+<p>
+<img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform"/>
+</p>
+
+### `05 — Security`
+
+<p>
+<img src="https://img.shields.io/badge/Cloud_Security-0D1117?style=for-the-badge&logo=icloud&logoColor=58A6FF" alt="Cloud Security"/>
+<img src="https://img.shields.io/badge/DevSecOps-0D1117?style=for-the-badge&logo=dependabot&logoColor=58A6FF" alt="DevSecOps"/>
+<img src="https://img.shields.io/badge/SAST-0D1117?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SAST"/>
+<img src="https://img.shields.io/badge/DAST-0D1117?style=for-the-badge&logo=owasp&logoColor=FFFFFF" alt="DAST"/>
+<img src="https://img.shields.io/badge/Trivy-0D1117?style=for-the-badge&logo=aqua&logoColor=FFFFFF" alt="Trivy"/>
+<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=FFFFFF" alt="OWASP"/>
+</p>
+
+### `06 — Observability`
+
+<p>
+<img src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana"/>
+<img src="https://img.shields.io/badge/Loki-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Loki"/>
+<img src="https://img.shields.io/badge/Logs-0D1117?style=for-the-badge&logo=files&logoColor=FFFFFF" alt="Logs"/>
+<img src="https://img.shields.io/badge/Metrics-0D1117?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Metrics"/>
+<img src="https://img.shields.io/badge/Monitoring-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Monitoring"/>
+</p>
+
+### `07 — Programming & Automation`
+
+<p>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/>
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
+</p>
+
+> **Note:** The technologies above represent the current learning path, interests and project stack. They are not presented as advanced mastery.
+
+---
+
+## `> gzcryy_toolbox`
+
+<div align="center">
+
+<table>
+<tr>
+<th align="left">MODULE</th>
+<th align="left">STACK</th>
+</tr>
+
+<tr>
+<td><code>OS</code></td>
+<td>Linux</td>
+</tr>
+
+<tr>
+<td><code>SHELL</code></td>
+<td>Bash</td>
+</tr>
+
+<tr>
+<td><code>VCS</code></td>
+<td>Git / GitHub</td>
+</tr>
+
+<tr>
+<td><code>CI/CD</code></td>
+<td>GitHub Actions</td>
+</tr>
+
+<tr>
+<td><code>CONTAINERS</code></td>
+<td>Docker / Docker Compose</td>
+</tr>
+
+<tr>
+<td><code>CLOUD</code></td>
+<td>AWS</td>
+</tr>
+
+<tr>
+<td><code>IaC</code></td>
+<td>Terraform</td>
+</tr>
+
+<tr>
+<td><code>AUTOMATION</code></td>
+<td>Python / Bash</td>
+</tr>
+
+<tr>
+<td><code>SECURITY</code></td>
+<td>Trivy / OWASP / SAST / DAST</td>
+</tr>
+
+<tr>
+<td><code>OBSERVABILITY</code></td>
+<td>Prometheus / Grafana / Loki</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `> featured_projects`
+
+## `01 — AWS Security Auditor`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="680">
+
+```text
+┌──────────────────────────────────────────────────────┐
+│ AWS SECURITY AUDITOR                                 │
+├──────────────────────────────────────────────────────┤
+│ Cloud Security / DevSecOps                           │
+│                                                      │
+│ Python • AWS • Terraform • Docker                    │
+│ Security Testing • CI/CD                             │
+│                                                      │
+│ STATUS: BUILDING                                     │
+└──────────────────────────────────────────────────────┘
+```
+
+**Concept**
+
+Tool for auditing AWS environment configurations and identifying potentially insecure configurations.
+
+**Stack**
+
+`Python` `FastAPI` `AWS Lambda` `API Gateway` `Terraform` `Docker` `GitHub Actions` `Automated Tests` `Trivy` `SAST` `OWASP ZAP` `DAST`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `02 — Security Log Analyzer`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="680">
+
+```text
+┌──────────────────────────────────────────────────────┐
+│ SECURITY LOG ANALYZER                                │
+├──────────────────────────────────────────────────────┤
+│ Security / Observability                             │
+│                                                      │
+│ Go • Loki • Prometheus • Grafana                     │
+│ Log Analysis • Detection Rules                       │
+│                                                      │
+│ STATUS: BUILDING                                     │
+└──────────────────────────────────────────────────────┘
+```
+
+**Concept**
+
+Tool for analyzing logs and identifying potentially suspicious events using detection rules.
+
+**Stack**
+
+`Go` `Log Analysis` `Regex` `Detection Rules` `Loki` `Prometheus` `Grafana`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `> current_mission`
+
+```console
 $ ./current-mission
 
-[✓] Linux fundamentals
-[✓] Git & GitHub
-[→] Networking
-[→] AWS
-[→] Docker
-[→] CI/CD
-[→] Terraform
-[→] Cloud Security
-[→] Observability
-```
+> FOUNDATION
 
-<br/>
+[ACTIVE] Linux
+[ACTIVE] Networking
+[ACTIVE] Git / GitHub
+
+> DEVOPS
+
+[LEARNING] Docker
+[LEARNING] CI/CD
+[LEARNING] Terraform
+
+> CLOUD
+
+[LEARNING] AWS
+[LEARNING] IAM
+[LEARNING] EC2
+[LEARNING] VPC
+
+> SECURITY
+
+[EXPLORING] Cloud Security
+[EXPLORING] DevSecOps
+[EXPLORING] Security Automation
+
+> OBSERVABILITY
+
+[EXPLORING] Prometheus
+[EXPLORING] Grafana
+[EXPLORING] Loki
+
+$ _
+```
 
 ---
 
-### `> career_roadmap`
+## `> career_roadmap`
 
 <div align="center">
 
-```text
-FOUNDATION
-Linux + Networking
-       ↓
-INFRASTRUCTURE
-Servers + Systems
-       ↓
-DEVOPS
-Automation + CI/CD
-       ↓
-CLOUD
-AWS + Infrastructure as Code
-       ↓
-CLOUD SECURITY
-Security + DevSecOps
-```
+<table>
+<tr>
+<td align="center" width="150">
 
-</div>
+### FOUNDATION
 
-<br/>
+Linux<br>
+Networking
 
----
+</td>
 
-### `> security_focus`
+<td>→</td>
 
-<div align="center">
+<td align="center" width="150">
 
-```text
-Infrastructure
-      +
-   Cloud
-      +
- Automation
-      ↓
- DevSecOps
-      ↓
+### INFRASTRUCTURE
+
+Systems<br>
+Servers
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="150">
+
+### DEVOPS
+
+Automation<br>
+CI/CD
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="150">
+
+### CLOUD
+
+AWS<br>
+IaC
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="150">
+
+### CLOUD SECURITY
+
+DevSecOps<br>
 Cloud Security
-```
+
+</td>
+</tr>
+</table>
 
 </div>
 
-Interesses em desenvolvimento: Cloud Security · DevSecOps · AWS Security · Security Automation · Secure CI/CD · Infrastructure Security · Logging · Monitoring · Detection.
-
-<br/>
+> The strategy is to build strong systems and infrastructure fundamentals before moving deeper into Cloud Security specialization.
 
 ---
 
-### `> system_metrics`
+## `> security_focus`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gzcryy&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=C9C5BC&icon_color=8A8680&text_color=E8E6E1" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzcryy&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=C9C5BC&text_color=E8E6E1" width="30%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gzcryy&theme=dark&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=C9C5BC&fire=8A8680&currStreakLabel=E8E6E1" width="60%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gzcryy&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=C9C5BC&line=8A8680&point=E8E6E1" width="90%"/>
-
-</div>
-
-<br/>
-
----
-
-### `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gzcryy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
-
-</div>
-
-<br/>
-
----
-
-### `> contribution_activity`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gzcryy/Gzcryy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gzcryy/Gzcryy/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Gzcryy/Gzcryy/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>gerado via GitHub Actions — configure o workflow <code>Platane/snk</code> para ativar</sub>
-
-</div>
-
-<br/>
-
----
-
-### `> connect`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E8E6E1)](https://github.com/Gzcryy)
-
-</div>
-
-<br/>
-
----
-
-### `> system_status`
 
 ```text
-┌──────────────────────────────────────┐
-│ SYSTEM STATUS                         │
-├──────────────────────────────────────┤
-│ Linux             ACTIVE              │
-│ Infrastructure    BUILDING            │
-│ DevOps            LEARNING            │
-│ Cloud             LEARNING            │
-│ Security          EXPLORING           │
-│ Observability     BUILDING            │
-└──────────────────────────────────────┘
+                 ┌───────────────────┐
+                 │   INFRASTRUCTURE   │
+                 └─────────┬─────────┘
+                           │
+                           +
+                           │
+                 ┌─────────▼─────────┐
+                 │       CLOUD       │
+                 └─────────┬─────────┘
+                           │
+                           +
+                           │
+                 ┌─────────▼─────────┐
+                 │    AUTOMATION      │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  DEVSECOPS  │
+                    └──────┬──────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │  CLOUD SECURITY  │
+                  └──────────────────┘
 ```
 
-<br/>
+</div>
+
+### Areas of interest
+
+* Cloud Security
+* DevSecOps
+* AWS Security
+* Infrastructure Security
+* Secure CI/CD
+* Security Automation
+* Logging
+* Detection
+* Monitoring
+* Vulnerability Management
+
+---
+
+## `> system_metrics`
 
 <div align="center">
 
-────────────────────────────────────────
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Gzcryy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+alt="Gzcryy GitHub Stats"
+/>
 
-**BUILDING • AUTOMATING • SECURING**
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzcryy&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+alt="Gzcryy Top Languages"
+/>
 
-`Linux` `Infrastructure` `DevOps` `Cloud`
+<br><br>
 
-*cada camada de infraestrutura entendida é um passo mais perto de protegê-la.*
-
-────────────────────────────────────────
+<img
+src="https://streak-stats.demolab.com?user=Gzcryy&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+alt="Gzcryy GitHub Streak"
+/>
 
 </div>
+
+---
+
+## `> contribution_activity`
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Gzcryy&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+alt="Gzcryy Contribution Activity"
+/>
+
+<br>
+
+<img
+src="https://raw.githubusercontent.com/Gzcryy/Gzcryy/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub contribution snake"
+/>
+
+</div>
+
+---
+
+## `> github_trophies`
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Gzcryy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
+alt="Gzcryy GitHub Trophies"
+/>
+
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://github.com/Gzcryy">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## `> system_status`
+
+<div align="center">
+
+<table>
+<tr>
+<th align="left">SYSTEM</th>
+<th align="left">STATUS</th>
+</tr>
+
+<tr>
+<td><code>Linux</code></td>
+<td>● ACTIVE</td>
+</tr>
+
+<tr>
+<td><code>Infrastructure</code></td>
+<td>◐ BUILDING</td>
+</tr>
+
+<tr>
+<td><code>DevOps</code></td>
+<td>◐ LEARNING</td>
+</tr>
+
+<tr>
+<td><code>Cloud</code></td>
+<td>◐ LEARNING</td>
+</tr>
+
+<tr>
+<td><code>Security</code></td>
+<td>◐ EXPLORING</td>
+</tr>
+
+<tr>
+<td><code>Observability</code></td>
+<td>◐ EXPLORING</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+────────────────────────────────────────────────────────
+
+             BUILDING • AUTOMATING • SECURING
+
+              Linux | Infrastructure | DevOps
+                    Cloud | Security
+
+────────────────────────────────────────────────────────
+
+Learn the fundamentals.
+Build the systems.
+Automate the process.
+Secure the infrastructure.
+
+────────────────────────────────────────────────────────
+```
+
+</div>
+``` 
+
