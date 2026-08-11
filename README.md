@@ -1,747 +1,303 @@
-````markdown
-<!-- =========================================================
-     GZCRYY — GitHub Profile README
-     Infrastructure • DevOps • Cloud • Security
-     ========================================================= -->
-
 <div align="center">
 
-<!-- SYSTEM INITIALIZATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1A1A,100:000000&height=260&section=header&text=GUILHERME%0A%40GZCRYY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20Security%20Engineer%20in%20training&descAlignY=62&descSize=16&descAlign=50" width="100%"/>
 
-<svg width="100%" viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gzcryy system initialization">
-  <rect width="900" height="210" rx="14" fill="#0a0e14" stroke="#30363d"/>
-  
-  <rect x="0" y="0" width="900" height="38" rx="14" fill="#111820"/>
-  <circle cx="22" cy="19" r="5" fill="#ff5f56"/>
-  <circle cx="40" cy="19" r="5" fill="#ffbd2e"/>
-  <circle cx="58" cy="19" r="5" fill="#27c93f"/>
-  
-  <text x="82" y="24" fill="#8b949e" font-family="monospace" font-size="13">
-    gzcryy@github:~$ system-init
-  </text>
+<br/>
 
-  <text x="28" y="68" fill="#58a6ff" font-family="monospace" font-size="13">
-    [ OK ]
-  </text>
-  <text x="82" y="68" fill="#c9d1d9" font-family="monospace" font-size="13">
-    Loading Linux environment...
-  </text>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=800&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%3E+SYSTEM+BOOT+...+OK;%3E+LOADING+MODULES%3A+DEVOPS+%2F%2F+CLOUD+%2F%2F+SECURITY;%3E+ACCESS+GRANTED.+WELCOME%2C+VISITOR." alt="boot sequence"/>
 
-  <text x="28" y="92" fill="#58a6ff" font-family="monospace" font-size="13">
-    [ OK ]
-  </text>
-  <text x="82" y="92" fill="#c9d1d9" font-family="monospace" font-size="13">
-    Loading networking modules...
-  </text>
+<br/><br/>
 
-  <text x="28" y="116" fill="#58a6ff" font-family="monospace" font-size="13">
-    [ OK ]
-  </text>
-  <text x="82" y="116" fill="#c9d1d9" font-family="monospace" font-size="13">
-    Loading infrastructure stack...
-  </text>
-
-  <text x="28" y="140" fill="#58a6ff" font-family="monospace" font-size="13">
-    [ OK ]
-  </text>
-  <text x="82" y="140" fill="#c9d1d9" font-family="monospace" font-size="13">
-    Loading DevOps / Cloud modules...
-  </text>
-
-  <text x="28" y="164" fill="#58a6ff" font-family="monospace" font-size="13">
-    [ OK ]
-  </text>
-  <text x="82" y="164" fill="#c9d1d9" font-family="monospace" font-size="13">
-    Loading security / observability modules...
-  </text>
-
-  <text x="28" y="191" fill="#3fb950" font-family="monospace" font-size="14">
-    SYSTEM STATUS: ONLINE
-  </text>
-</svg>
-
-<br>
-
-# `Gzcryy`
-
-### `Infrastructure • DevOps • Cloud • Security`
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Infrastructure;Automating+Systems;Learning+Cloud;Exploring+Cloud+Security;Engineering+Reliable+Systems"
-  alt="Typing animation"
-/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FFFFFF?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LOCATION-RECIFE%2C%20BR-8B949E?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ROLE-DEVOPS%20%2F%20CLOUD%20SEC-C9D1D9?style=for-the-badge&logo=cloudsmith&logoColor=black&labelColor=000000"/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=gzcryy&label=PROFILE%20VIEWS&color=8B949E&style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/gzcryy?label=FOLLOWERS&style=for-the-badge&color=8B949E&labelColor=000000"/>
 
 </div>
 
----
+<br/>
 
-## `> about_me`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1A1A1A&height=3" width="100%"/>
 
-```text
-Gzcryy is a technology student building a strong foundation
-across Linux, Networking, Infrastructure, DevOps, Cloud and Security.
+<br/>
 
-The current direction is focused on understanding how systems work,
-how servers are administered, how networks communicate, how repetitive
-processes can be automated, and how infrastructure can be delivered,
-monitored and protected.
-
-The goal is not to skip the fundamentals.
-
-The goal is to build them properly.
-````
-
-<div align="center">
-
-`Linux` → `Infrastructure` → `DevOps` → `Cloud` → `Cloud Security`
-
-</div>
-
----
-
-## `> core_interests`
-
-<div align="center">
+## <img src="https://img.shields.io/badge/-SOBRE__MIM-000000?style=for-the-badge&logo=cyberdefenders&logoColor=FFFFFF"/>
 
 <table>
 <tr>
-<td align="center" width="145">
-
-### `01`
-
-**LINUX**
-
-`Systems`
-
-</td>
-<td align="center">→</td>
-<td align="center" width="145">
-
-### `02`
-
-**NETWORKING**
-
-`Connectivity`
-
-</td>
-<td align="center">→</td>
-<td align="center" width="145">
-
-### `03`
-
-**INFRASTRUCTURE**
-
-`Servers`
-
-</td>
-<td align="center">→</td>
-<td align="center" width="145">
-
-### `04`
-
-**DEVOPS**
-
-`Automation`
-
-</td>
-<td align="center">→</td>
-<td align="center" width="145">
-
-### `05`
-
-**CLOUD**
-
-`AWS`
-
-</td>
-<td align="center">→</td>
-<td align="center" width="145">
-
-### `06`
-
-**CLOUD SECURITY**
-
-`Protection`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `> linux_systems`
-
-Linux is the foundation of the current technical path.
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Operating Systems
-
-* Linux
-* Bash
-* Shell
-* SSH
-* Filesystem
-* Permissions
-* Processes
-* Services
-* systemd
-
-</td>
-<td valign="top" width="50%">
-
-### System Administration
-
-* Package management
-* Environment variables
-* Server administration
-* Service management
-* Process management
-* Filesystem administration
-* Basic troubleshooting
-
-</td>
-</tr>
-</table>
-
----
-
-## `> networking`
-
-Networking is treated as a fundamental layer of Infrastructure and DevOps.
-
-<div align="center">
-
-| Area                | Focus                              |
-| ------------------- | ---------------------------------- |
-| **TCP/IP**          | Network fundamentals               |
-| **DNS**             | Name resolution                    |
-| **HTTP / HTTPS**    | Application communication          |
-| **Ports**           | Service connectivity               |
-| **Routing**         | Network paths                      |
-| **Firewalls**       | Traffic control                    |
-| **Troubleshooting** | Diagnosing connectivity            |
-| **Architecture**    | Understanding basic network design |
-
-</div>
-
----
-
-## `> tech_stack`
-
-### `01 — Infrastructure`
-
-<p>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
-<img src="https://img.shields.io/badge/SSH-0D1117?style=for-the-badge&logo=openssh&logoColor=FFFFFF" alt="SSH"/>
-<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx"/>
-<img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Networking"/>
-</p>
-
-### `02 — DevOps`
-
-<p>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
-<img src="https://img.shields.io/badge/Docker_Compose-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker Compose"/>
-</p>
-
-### `03 — Cloud`
-
-<p>
-<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
-<img src="https://img.shields.io/badge/IAM-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="IAM"/>
-<img src="https://img.shields.io/badge/EC2-0D1117?style=for-the-badge&logo=amazonec2&logoColor=FF9900" alt="EC2"/>
-<img src="https://img.shields.io/badge/S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=569A31" alt="S3"/>
-<img src="https://img.shields.io/badge/VPC-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="VPC"/>
-<img src="https://img.shields.io/badge/CloudWatch-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="CloudWatch"/>
-</p>
-
-### `04 — Infrastructure as Code`
-
-<p>
-<img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform"/>
-</p>
-
-### `05 — Security`
-
-<p>
-<img src="https://img.shields.io/badge/Cloud_Security-0D1117?style=for-the-badge&logo=icloud&logoColor=58A6FF" alt="Cloud Security"/>
-<img src="https://img.shields.io/badge/DevSecOps-0D1117?style=for-the-badge&logo=dependabot&logoColor=58A6FF" alt="DevSecOps"/>
-<img src="https://img.shields.io/badge/SAST-0D1117?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SAST"/>
-<img src="https://img.shields.io/badge/DAST-0D1117?style=for-the-badge&logo=owasp&logoColor=FFFFFF" alt="DAST"/>
-<img src="https://img.shields.io/badge/Trivy-0D1117?style=for-the-badge&logo=aqua&logoColor=FFFFFF" alt="Trivy"/>
-<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=FFFFFF" alt="OWASP"/>
-</p>
-
-### `06 — Observability`
-
-<p>
-<img src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana"/>
-<img src="https://img.shields.io/badge/Loki-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Loki"/>
-<img src="https://img.shields.io/badge/Logs-0D1117?style=for-the-badge&logo=files&logoColor=FFFFFF" alt="Logs"/>
-<img src="https://img.shields.io/badge/Metrics-0D1117?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Metrics"/>
-<img src="https://img.shields.io/badge/Monitoring-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Monitoring"/>
-</p>
-
-### `07 — Programming & Automation`
-
-<p>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/>
-<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
-</p>
-
-> **Note:** The technologies above represent the current learning path, interests and project stack. They are not presented as advanced mastery.
-
----
-
-## `> gzcryy_toolbox`
-
-<div align="center">
-
-<table>
-<tr>
-<th align="left">MODULE</th>
-<th align="left">STACK</th>
-</tr>
-
-<tr>
-<td><code>OS</code></td>
-<td>Linux</td>
-</tr>
-
-<tr>
-<td><code>SHELL</code></td>
-<td>Bash</td>
-</tr>
-
-<tr>
-<td><code>VCS</code></td>
-<td>Git / GitHub</td>
-</tr>
-
-<tr>
-<td><code>CI/CD</code></td>
-<td>GitHub Actions</td>
-</tr>
-
-<tr>
-<td><code>CONTAINERS</code></td>
-<td>Docker / Docker Compose</td>
-</tr>
-
-<tr>
-<td><code>CLOUD</code></td>
-<td>AWS</td>
-</tr>
-
-<tr>
-<td><code>IaC</code></td>
-<td>Terraform</td>
-</tr>
-
-<tr>
-<td><code>AUTOMATION</code></td>
-<td>Python / Bash</td>
-</tr>
-
-<tr>
-<td><code>SECURITY</code></td>
-<td>Trivy / OWASP / SAST / DAST</td>
-</tr>
-
-<tr>
-<td><code>OBSERVABILITY</code></td>
-<td>Prometheus / Grafana / Loki</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-# `> featured_projects`
-
-## `01 — AWS Security Auditor`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="680">
-
-```text
-┌──────────────────────────────────────────────────────┐
-│ AWS SECURITY AUDITOR                                 │
-├──────────────────────────────────────────────────────┤
-│ Cloud Security / DevSecOps                           │
-│                                                      │
-│ Python • AWS • Terraform • Docker                    │
-│ Security Testing • CI/CD                             │
-│                                                      │
-│ STATUS: BUILDING                                     │
-└──────────────────────────────────────────────────────┘
+<td width="60%" valign="top">
+
+```yaml
+guilherme:
+  idade: 18
+  local: Recife, PE - Brasil
+  formacao: "DevOps Acelerado — FAP / APONTI (Softex)"
+  foco_atual: "AWS · IaC · CI/CD · Cloud Security"
+  objetivo_2026: "Primeira vaga em TI (N1/N2, Infra Jr, Cloud Jr)"
+  filosofia: "The pipeline is never finished. Neither am I."
 ```
 
-**Concept**
+</td>
+<td width="40%" valign="top">
 
-Tool for auditing AWS environment configurations and identifying potentially insecure configurations.
-
-**Stack**
-
-`Python` `FastAPI` `AWS Lambda` `API Gateway` `Terraform` `Docker` `GitHub Actions` `Automated Tests` `Trivy` `SAST` `OWASP ZAP` `DAST`
+- 🛰️ Estudando pra minha primeira certificação **AWS**
+- 🔐 Migrando o foco de Infra pura pra **Cloud Security / GRC-as-code**
+- 🧠 Interesse paralelo em arquiteturas de sistemas não convencionais
+- ⚙️ Aprendendo a construir tudo com as próprias mãos — do terminal ao deploy
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:000000&height=3" width="100%"/>
 
-## `02 — Security Log Analyzer`
+<br/>
+
+## <img src="https://img.shields.io/badge/-TECH__STACK-000000?style=for-the-badge&logo=hackthebox&logoColor=C9D1D9"/>
 
 <div align="center">
 
-<table>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,aws,terraform,py,go,nginx,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white&labelColor=1A1A1A"/>
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-FERRAMENTAS-000000?style=for-the-badge&logo=toolstation&logoColor=C9D1D9"/>
+
+<div align="center">
+
+| Categoria | Stack |
+|---|---|
+| **Sistema** | ![Zorin OS](https://img.shields.io/badge/Zorin_OS-1A1A1A?style=flat-square&logo=linux&logoColor=white) ![Arch](https://img.shields.io/badge/Arch_Linux_(estudo)-1A1A1A?style=flat-square&logo=archlinux&logoColor=white) |
+| **IaC / Cloud** | ![Terraform](https://img.shields.io/badge/Terraform-1A1A1A?style=flat-square&logo=terraform&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-1A1A1A?style=flat-square&logo=awslambda&logoColor=white) ![API Gateway](https://img.shields.io/badge/API_Gateway-1A1A1A?style=flat-square&logo=amazonapigateway&logoColor=white) |
+| **Segurança** | ![Trivy](https://img.shields.io/badge/Trivy_(SAST)-1A1A1A?style=flat-square&logo=aquasecurity&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP_(DAST)-1A1A1A?style=flat-square&logo=owasp&logoColor=white) |
+| **Versionamento** | ![Git](https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=white) |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1A1A1A&height=3" width="100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-PROJETOS-000000?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
+
+<table width="100%">
 <tr>
-<td width="680">
+<td width="50%" valign="top">
 
-```text
-┌──────────────────────────────────────────────────────┐
-│ SECURITY LOG ANALYZER                                │
-├──────────────────────────────────────────────────────┤
-│ Security / Observability                             │
-│                                                      │
-│ Go • Loki • Prometheus • Grafana                     │
-│ Log Analysis • Detection Rules                       │
-│                                                      │
-│ STATUS: BUILDING                                     │
-└──────────────────────────────────────────────────────┘
-```
+### 🛡️ Cloud Security Auditor
+> Auditor de segurança da própria conta AWS — detecta configurações inseguras (buckets S3 públicos, IAM permissivo) via API.
 
-**Concept**
+`Python` `FastAPI` `AWS Lambda` `Terraform` `Docker`
 
-Tool for analyzing logs and identifying potentially suspicious events using detection rules.
+![Trivy](https://img.shields.io/badge/SAST-Trivy-1A1A1A?style=flat-square)
+![ZAP](https://img.shields.io/badge/DAST-OWASP_ZAP-1A1A1A?style=flat-square)
+![CI](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-1A1A1A?style=flat-square)
 
-**Stack**
+[`🔗 ver repositório`](https://github.com/gzcryy/cloud-security-auditor)
 
-`Go` `Log Analysis` `Regex` `Detection Rules` `Loki` `Prometheus` `Grafana`
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Secrets Scanner
+> CLI que detecta secrets hardcoded (chaves AWS, tokens, senhas) via regex — compilado como binário e integrado como etapa de pipeline.
+
+`Go` `Regex Engine` `GitHub Actions`
+
+![CLI](https://img.shields.io/badge/Interface-CLI-1A1A1A?style=flat-square)
+![Binary](https://img.shields.io/badge/Build-Static_Binary-1A1A1A?style=flat-square)
+
+[`🔗 ver repositório`](https://github.com/gzcryy/secrets-scanner)
 
 </td>
 </tr>
-</table>
-
-</div>
-
----
-
-## `> current_mission`
-
-```console
-$ ./current-mission
-
-> FOUNDATION
-
-[ACTIVE] Linux
-[ACTIVE] Networking
-[ACTIVE] Git / GitHub
-
-> DEVOPS
-
-[LEARNING] Docker
-[LEARNING] CI/CD
-[LEARNING] Terraform
-
-> CLOUD
-
-[LEARNING] AWS
-[LEARNING] IAM
-[LEARNING] EC2
-[LEARNING] VPC
-
-> SECURITY
-
-[EXPLORING] Cloud Security
-[EXPLORING] DevSecOps
-[EXPLORING] Security Automation
-
-> OBSERVABILITY
-
-[EXPLORING] Prometheus
-[EXPLORING] Grafana
-[EXPLORING] Loki
-
-$ _
-```
-
----
-
-## `> career_roadmap`
-
-<div align="center">
-
-<table>
 <tr>
-<td align="center" width="150">
+<td width="50%" valign="top">
 
-### FOUNDATION
+### 🎮 APAGÃO
+> Jogo stealth isométrico rodando 100% no navegador, em um único arquivo HTML — com IA de NPCs, mecânica policial e otimização para Android mid-range.
 
-Linux<br>
-Networking
+`Canvas 2D` `Web Audio API` `JavaScript`
 
-</td>
+![Single File](https://img.shields.io/badge/Arquitetura-Single_HTML_File-1A1A1A?style=flat-square)
 
-<td>→</td>
-
-<td align="center" width="150">
-
-### INFRASTRUCTURE
-
-Systems<br>
-Servers
+[`🔗 ver repositório`](https://github.com/gzcryy/apagao)
 
 </td>
+<td width="50%" valign="top">
 
-<td>→</td>
+### 🌐 Landing Page @gzcryy
+> Página pessoal minimalista em tema escuro, arquivo único, pensada pra deploy instantâneo.
 
-<td align="center" width="150">
+`HTML` `CSS` `JavaScript`
 
-### DEVOPS
+![Deploy](https://img.shields.io/badge/Deploy-GitHub_Pages_%2F_Netlify-1A1A1A?style=flat-square)
 
-Automation<br>
-CI/CD
-
-</td>
-
-<td>→</td>
-
-<td align="center" width="150">
-
-### CLOUD
-
-AWS<br>
-IaC
-
-</td>
-
-<td>→</td>
-
-<td align="center" width="150">
-
-### CLOUD SECURITY
-
-DevSecOps<br>
-Cloud Security
+[`🔗 ver repositório`](https://github.com/gzcryy/landing-page)
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-> The strategy is to build strong systems and infrastructure fundamentals before moving deeper into Cloud Security specialization.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:000000&height=3" width="100%"/>
 
----
+<br/>
 
-## `> security_focus`
+## <img src="https://img.shields.io/badge/-OBJETIVOS__ATUAIS-000000?style=for-the-badge&logo=target&logoColor=C9D1D9"/>
 
-<div align="center">
+```bash
+guilherme@devops:~$ whoami
+> aspiring cloud security engineer
 
-```text
-                 ┌───────────────────┐
-                 │   INFRASTRUCTURE   │
-                 └─────────┬─────────┘
-                           │
-                           +
-                           │
-                 ┌─────────▼─────────┐
-                 │       CLOUD       │
-                 └─────────┬─────────┘
-                           │
-                           +
-                           │
-                 ┌─────────▼─────────┐
-                 │    AUTOMATION      │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │  DEVSECOPS  │
-                    └──────┬──────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │  CLOUD SECURITY  │
-                  └──────────────────┘
+guilherme@devops:~$ cat roadmap_2026.log
+[x] Git & Linux ............................ dominado
+[~] AWS Certified Solutions Architect ....... em estudo
+[~] Cloud Security Auditor (Python/FastAPI) . em progresso
+[ ] Secrets Scanner CLI (Go) ................ próximo sprint
+[ ] Projeto integrador FAP (Porto Digital) .. setembro/2026
+[ ] Primeira vaga em TI (BR) ................ out-dez/2026
+
+guilherme@devops:~$ _
 ```
 
-</div>
+<br/>
 
-### Areas of interest
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1A1A1A&height=3" width="100%"/>
 
-* Cloud Security
-* DevSecOps
-* AWS Security
-* Infrastructure Security
-* Secure CI/CD
-* Security Automation
-* Logging
-* Detection
-* Monitoring
-* Vulnerability Management
+<br/>
 
----
-
-## `> system_metrics`
+## <img src="https://img.shields.io/badge/-GITHUB__ANALYTICS-000000?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF"/>
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Gzcryy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
-alt="Gzcryy GitHub Stats"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gzcryy&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=8B949E&text_color=C9D1D9&ring_color=444444"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzcryy&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C9D1D9"/>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzcryy&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-alt="Gzcryy Top Languages"
-/>
+<br/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gzcryy&hide_border=true&background=0D0D0D&ring=444444&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E"/>
 
-<img
-src="https://streak-stats.demolab.com?user=Gzcryy&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
-alt="Gzcryy GitHub Streak"
-/>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gzcryy&bg_color=0D0D0D&color=FFFFFF&line=8B949E&point=FFFFFF&area_color=1A1A1A&hide_border=true&area=true"/>
 
 </div>
 
----
+<br/>
 
-## `> contribution_activity`
+## <img src="https://img.shields.io/badge/-GITHUB__TROPHIES-000000?style=for-the-badge&logo=trophy&logoColor=C9D1D9"/>
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Gzcryy&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-alt="Gzcryy Contribution Activity"
-/>
-
-<br>
-
-<img
-src="https://raw.githubusercontent.com/Gzcryy/Gzcryy/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub contribution snake"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=gzcryy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
----
+<br/>
 
-## `> github_trophies`
+## <img src="https://img.shields.io/badge/-CONTRIBUTION__SNAKE-000000?style=for-the-badge&logo=snake&logoColor=FFFFFF"/>
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=Gzcryy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
-alt="Gzcryy GitHub Trophies"
-/>
+<img src="https://raw.githubusercontent.com/gzcryy/gzcryy/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
----
+<details>
+<summary><b>⚙️ Como ativar a Snake Animation neste perfil</b></summary>
 
-## `> connect`
+<br/>
+
+Crie o arquivo `.github/workflows/snake.yml` no seu repositório `gzcryy/gzcryy` com o conteúdo abaixo — ele gera o SVG automaticamente todo dia:
+
+```yaml
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: gzcryy
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:000000&height=3" width="100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-CONECTAR-000000?style=for-the-badge&logo=linktree&logoColor=C9D1D9"/>
 
 <div align="center">
 
-<a href="https://github.com/Gzcryy">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<a href="https://linkedin.com/in/gzcryy" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A"/>
+</a>
+<a href="https://github.com/gzcryy" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A"/>
+</a>
+<a href="https://instagram.com/gzcryy" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A1A1A"/>
+</a>
+<a href="mailto:contato@gzcryy.dev" target="_blank">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A"/>
 </a>
 
 </div>
 
----
-
-## `> system_status`
+<br/>
 
 <div align="center">
 
-<table>
-<tr>
-<th align="left">SYSTEM</th>
-<th align="left">STATUS</th>
-</tr>
-
-<tr>
-<td><code>Linux</code></td>
-<td>● ACTIVE</td>
-</tr>
-
-<tr>
-<td><code>Infrastructure</code></td>
-<td>◐ BUILDING</td>
-</tr>
-
-<tr>
-<td><code>DevOps</code></td>
-<td>◐ LEARNING</td>
-</tr>
-
-<tr>
-<td><code>Cloud</code></td>
-<td>◐ LEARNING</td>
-</tr>
-
-<tr>
-<td><code>Security</code></td>
-<td>◐ EXPLORING</td>
-</tr>
-
-<tr>
-<td><code>Observability</code></td>
-<td>◐ EXPLORING</td>
-</tr>
-
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6E6E8A&center=true&vCenter=true&width=600&lines=%22The+pipeline+is+never+finished.+Neither+am+I.%22"/>
 
 </div>
 
----
-
-<div align="center">
-
-```text
-────────────────────────────────────────────────────────
-
-             BUILDING • AUTOMATING • SECURING
-
-              Linux | Infrastructure | DevOps
-                    Cloud | Security
-
-────────────────────────────────────────────────────────
-
-Learn the fundamentals.
-Build the systems.
-Automate the process.
-Secure the infrastructure.
-
-────────────────────────────────────────────────────────
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1A1A,100:000000&height=120&section=footer"/>
 
 </div>
-``` 
-
